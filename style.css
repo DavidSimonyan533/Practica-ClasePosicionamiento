@@ -1,0 +1,56 @@
+html {
+    background-color: antiquewhite;
+}
+
+a.abajo {
+    position: relative;
+    top: -20px;
+    left: 90px;
+}
+
+img.abajo1 {
+    position: relative;
+    top: -20px;
+    left: 90px;
+}
+
+h1.centro {
+    text-align: center;
+    color: brown;
+}
+
+img.centro1 {
+    position: relative;
+    top: 160px;
+    left: 350px;
+}
+
+a.centro {
+    position: relative;
+    top: 160px;
+    left: 320px;
+}
+
+
+img.derecha1 {
+    position: relative;
+    top: 380px;
+    left: 650px;
+    height: 300px;
+}
+
+a.derecha {
+    position: relative;
+    top: 430px;
+    left: 630px;
+}
+
+p {
+    color: brown;
+}
+
+section.contacto {
+    position: relative;
+    left: 650px;
+    top: 60px;
+}
